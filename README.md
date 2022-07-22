@@ -1,5 +1,5 @@
 # website
-This is my personal website hosted by Github pages.
+This is my personal website hosted on Github pages.
 
 My plans for this website are:
 - Learn and get very familiar with HTML, CSS and JS.
